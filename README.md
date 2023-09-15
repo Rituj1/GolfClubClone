@@ -3,9 +3,11 @@
 A clone of the Siducp Golf Webpage (UI Part) using the following technologies:
 
 - <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="20"> HTML5
-- <img src="https://www.bing.com/images/search?view=detailV2&ccid=b84LJufE&id=120F97FE802F6C6073F9777C5282BF099C82BB6A&thid=OIP.b84LJufExcg3D_xTcbF6DgHaE8&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp2742472.jpg&exph=1200&expw=1799&q=css+images&simid=608036746838357938&FORM=IRPRST&ck=34E32A65F7FFDA15A32A867A2A23E640&selectedIndex=0" alt="CSS3 Logo" width="20"> CSS3
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg
+" alt="CSS3 Logo" width="20"> CSS3
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="20"> JavaScript
-- <img src="https://www.bing.com/images/search?view=detailV2&ccid=S2qKh6H%2f&id=EBE6C717AF37FAC3AAFCA127C8CE07099374462E&thid=OIP.S2qKh6H_RoKAS_D0JLVaCgHaDf&mediaurl=https%3a%2f%2flyrasoft.s3.amazonaws.com%2fsimular%2fimages%2fshare%2f2b44928ae11fb9384c4cf38708677c48.jpg%3f5f7c1ebbdd588&exph=400&expw=850&q=gsap+cdn+logo&simid=607987925979905146&FORM=IRPRST&ck=C51CD474AB3C83090A15E5543FBCD2C4&selectedIndex=1" alt="GSAP Logo" width="20"> GSAP CDN
+- <img src="[https://www.bing.com/images/search?view=detailV2&ccid=S2qKh6H%2f&id=EBE6C717AF37FAC3AAFCA127C8CE07099374462E&thid=OIP.S2qKh6H_RoKAS_D0JLVaCgHaDf&mediaurl=https%3a%2f%2flyrasoft.s3.amazonaws.com%2fsimular%2fimages%2fshare%2f2b44928ae11fb9384c4cf38708677c48.jpg%3f5f7c1ebbdd588&exph=400&expw=850&q=gsap+cdn+logo&simid=607987925979905146&FORM=IRPRST&ck=C51CD474AB3C83090A15E5543FBCD2C4&selectedIndex=1](https://greensock.com/uploads/monthly_2018_12/gsap.png.bcc145c2de88ea7b586fd71c97b876c6.png
+)" alt="GSAP Logo" width="20"> GSAP CDN
 
 The frontend design takes inspiration from the original source material.
 
@@ -13,9 +15,6 @@ The frontend design takes inspiration from the original source material.
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
