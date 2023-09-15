@@ -18,7 +18,7 @@ The frontend design takes inspiration from the original source material.
 
 ## Demo
 
-Visit the live demo of the Golf Club Clone: [golfclubclone.github.io](https://rituj1.github.io/golfclubclone.github.io/)
+Visit the live demo of the Golf Club Clone: [Golf Club Clone](https://rituj1.github.io/golfclubclone.github.io/)
 
 ## Features
 
