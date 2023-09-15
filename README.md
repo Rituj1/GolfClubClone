@@ -3,7 +3,7 @@
 A clone of the Siducp Golf Webpage (UI Part) using the following technologies:
 
 - <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="20"> HTML5
-- <img src="https://th.bing.com/th/id/OIP.K7kDipx_FgcU-d5VDHIWdQHaE8?w=268&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="CSS3 Logo" width="40"> CSS3
+- <img src="https://www.bing.com/images/search?view=detailV2&ccid=b84LJufE&id=120F97FE802F6C6073F9777C5282BF099C82BB6A&thid=OIP.b84LJufExcg3D_xTcbF6DgHaE8&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp2742472.jpg&exph=1200&expw=1799&q=css+images&simid=608036746838357938&FORM=IRPRST&ck=34E32A65F7FFDA15A32A867A2A23E640&selectedIndex=0" alt="CSS3 Logo" width="20"> CSS3
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="20"> JavaScript
 - <img src="https://greensock.com/uploads/monthly_2018_12/gsap.png.bcc145c2de88ea7b586fd71c97b876c6.png" alt="GSAP Logo" width="20"> GSAP CDN
 
